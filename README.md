@@ -5,7 +5,7 @@ MobileNet блок с декомпозированной сверткой).
 
 Используемый набор данных COCOStuff10k: https://github.com/nightrome/cocostuff10k
 
-Ссылка на ноутбук с Resnet реализацией: https://colab.research.google.com/drive/1q8qRRO-CWc7u5CjQn0MlkJdKw_sl9Kx6?usp=sharing
+Ссылка на ноутбук с Resnet реализацией: https://colab.research.google.com/drive/1q8qRRO-CWc7u5CjQn0MlkJdKw_sl9Kx6?usp=sharing\
 TODO: Ссылка на ноутбук с Mobilenet реализацией:\
 Ссылка на ноутбук с базовой реализацией: https://colab.research.google.com/drive/1uJ2zxUpdfP1wJ4lsu0M2UR_oLmzueUCa?usp=sharing
 
